@@ -1,0 +1,2 @@
+/// @description Laser wait
+
